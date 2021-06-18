@@ -27,7 +27,7 @@
   "use_robux": true,
   "projected_ratio": 0.3,
   "robux_ratio_send": 0.001,
-  "testmode": true,
+  "testmode": false,
   "custom_values": {},
   "accept_ratio": 1.1,
   "USER_ID": 2381110958,
